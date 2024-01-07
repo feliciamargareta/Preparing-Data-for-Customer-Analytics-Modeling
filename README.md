@@ -4,7 +4,8 @@ Python projects on DataCamp
 Customer Analytics: Preparing Data for Modeling
 
 ## Project Description
-An online data science training provider need to store their data more efficiently, so they can create a model that predicts if course enrollees are looking for a job.
+An online data science training provider want to create a model that predicts if course enrollees are looking for a job.
+Our job is to store their data more efficiently and ready to be used for the model.
 
 ## Project Scope
 1. Exploratory data analysis
